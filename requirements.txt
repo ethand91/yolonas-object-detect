@@ -1,0 +1,4 @@
+imutils
+torchinfo
+torch
+super-gradients
